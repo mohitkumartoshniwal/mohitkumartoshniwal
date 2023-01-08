@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**mohitkumartoshniwal/mohitkumartoshniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: Vue.js, React.js, Node.js, MongoDB, Postgresql, Three.js, D3.js
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: TypeScript, React-Three-Fiber, Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+- LinkedIn: [/in/mohitkumartoshniwal](https://www.linkedin.com/in/mohitkumartoshniwal/)
+- Twitter: [@MohitKumarTosh1](https://twitter.com/@MohitKumarTosh1/)
+- Youtube: [@mohitkumartoshniwal8569](https://www.youtube.com/channel/UCZwpQ59mtSdFzKYEnk3cbeA)
+- HashNode: [@mohitkumartoshniwal](https://hashnode.com/@mohitkumartoshniwal)
+- Dev.to: [@mohitkumartoshniwal](https://dev.to/mohitkumartoshniwal)
