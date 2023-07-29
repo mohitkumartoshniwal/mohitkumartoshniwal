@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m currently working on: Vue.js, React.js, Node.js, MongoDB, Postgresql, Three.js, D3.js
+🔭 I’m currently working on: Vue.js, React.js, Node.js, MongoDB, Postgresql, Three.js, D3.js, Nuxt.js
 
-🌱 I’m currently learning: TypeScript, React-Three-Fiber, Blender
+🌱 I’m currently learning: React-Three-Fiber, Blender
 
 📫 How to reach me:
 
